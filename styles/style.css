@@ -1,1 +1,13 @@
-/*# sourceMappingURL=style.css.map */
+.row {
+  background-color: aqua;
+}
+.row h4 {
+  text-align: center;
+}
+
+.col {
+  background-color: bisque;
+}
+.col h4 {
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
